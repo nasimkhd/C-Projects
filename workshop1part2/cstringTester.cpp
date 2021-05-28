@@ -1,10 +1,4 @@
-// Workshop 1:
-// Version: 0.9
-// Date: 2021/10/16
-// Author: Fardad Soleimanloo
-// Description:
-// This file tests the lab section of your workshop
-///////////////////////////////////////////////////
+
 #include <iostream>
 #include "cstring.h"
 using namespace sdds;
