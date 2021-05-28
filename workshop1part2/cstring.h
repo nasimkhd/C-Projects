@@ -1,9 +1,3 @@
-//Name: Nasim Khodapanah
-//Student ID: 131929200
-//Seneca Email: nkhodapanah@myseneca.ca
-//Section: NAA
-
-
 #ifndef SDDS_CSTRING_H
 #define SDDS_CSTRING_H
 
