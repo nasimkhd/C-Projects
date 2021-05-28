@@ -1,7 +1,3 @@
-//Name: Nasim Khodapanah
-//Student ID: 131929200
-//Seneca Email: nkhodapanah@myseneca.ca
-//Section: NAA
 
 
 #define _CRT_SECURE_NO_WARNINGS
