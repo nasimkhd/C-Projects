@@ -1,9 +1,4 @@
-//Name: Nasim Khodapanah
-// //Student ID: 131929200
-// Workshop 2: part 1
-// Email: nkhodapanah@myseneca.ca
-// Date: 2021/6/2
-/////////////////////////////////
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <cstdio>
 #include "File.h"
