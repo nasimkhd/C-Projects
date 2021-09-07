@@ -1,0 +1,18 @@
+//Name: Nasim Khodapanah
+// //Student ID: 131929200
+// Workshop 3: part 2
+// Email: nkhodapanah@myseneca.ca
+// Date: 6/8/2021
+/////////////////////////////////
+
+
+The most interesting part of this workshop and lecture is being familiarized with built-in functions 
+named ignore, width, setf, unsetf which I essentially used in this workshop and these let me organized 
+my lines and design my table.
+Also, I used classes instead of structs and define variables as a private and some required functions 
+as a public members of the class. I used dynamic memory by allocating memory to my class object and 
+at the end deallocate memory to avoid memory leap. I tried to use more of flags specially in my functions
+which are bool so i would be more easy to retrieve dta from my function.
+The most challenging part for me is the part that we should allocate memory dynamically, I did not recognize 
+where should I allocate memory and how can I notice that it is a right place and right thing that I am 
+allocating memory to.
