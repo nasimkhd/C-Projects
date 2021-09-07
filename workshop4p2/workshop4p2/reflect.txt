@@ -1,0 +1,11 @@
+//Name: Nasim Khodapanah
+// //Student ID: 131929200
+// Workshop 4: part 2
+// Email: nkhodapanah@myseneca.ca
+// Date: 2021/6/15
+/////////////////////////////////
+
+
+In this workshop I used default constructors and deconstructors. Constructor is something that should not be called anywhere and executes before any other functions, on the other hand, deconstructor executes exectly before the scoop is going to end and also should not be called anywhere. I used both default constructors and custom constructors with different arguments. Actually we use deconstructor to flush the memory and prevent memory leak in program.
+Also, I used reference of current object and return *this rather than a copy of the object. This would improve performance if the object was large, since copying all of its instance variables would be compute intensive. instead of using void. 
+The thing that caused difficulty is how to access my Label content from LabelMaker. Then I realize that I should create a dynamic array of Labels.
