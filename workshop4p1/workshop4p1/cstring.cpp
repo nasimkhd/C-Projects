@@ -1,9 +1,4 @@
-//Name: Nasim Khodapanah
-// //Student ID: 131929200
-// Workshop 4: part 1
-// Email: nkhodapanah@myseneca.ca
-// Date: 2021/6/14
-/////////////////////////////////
+
 #include "cstring.h"
 using namespace std;
 namespace sdds {
