@@ -1,8 +1,5 @@
 
-//Nasim Khodapanah
-//ID : 131929200
-//Email: nkhodapanah@myseneca.ca
-//Lab 6
+
 
 #include <iostream>
 #include <occi.h>
